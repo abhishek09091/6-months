@@ -1,0 +1,37 @@
+Arrays:
+
+Array Rotation : All 4 pages
+
+
+Linked List:
+
+Singly Linked List : Till Question 25
+
+Matrix:
+
+Till first 20 Questions
+
+
+Strings:
+
+Basics : All 13 Questions
+
+
+Bit Manipulation:
+
+Basic : First 10
+
+
+Mathematics:
+
+GCD and LCM : First 20 Questions
+
+
+Queue:
+
+Implementation : All 12
+
+
+Stack:
+
+Design and Implementation : All 12 
